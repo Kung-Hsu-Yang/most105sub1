@@ -1,0 +1,70 @@
+{
+  "locked": false,
+  "version": 2,
+  "targets": {
+    "DNX,Version=v4.5.1": {
+      "Common.Logging/3.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Common.Logging.Core": "3.3.0"
+        },
+        "compile": {
+          "lib/net40/Common.Logging.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Common.Logging.dll": {}
+        }
+      },
+      "Common.Logging.Core/3.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Common.Logging.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Common.Logging.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Common.Logging/3.3.0": {
+      "sha512": "JaxwTTVib7MPIeoIKX6V1nsowkKuOMZ3WZ5ljnxJsnsKezAuCq5SKRQu602KoqDDT0msO3Z6DT4o7XCHrFocfw==",
+      "type": "package",
+      "files": [
+        "Common.Logging.3.3.0.nupkg.sha512",
+        "Common.Logging.nuspec",
+        "lib/net35/Common.Logging.dll",
+        "lib/net35/Common.Logging.pdb",
+        "lib/net35/Common.Logging.xml",
+        "lib/net40/Common.Logging.dll",
+        "lib/net40/Common.Logging.pdb",
+        "lib/net40/Common.Logging.xml"
+      ]
+    },
+    "Common.Logging.Core/3.3.0": {
+      "sha512": "MtrPJxAwsiCXslYiU0QA1tG/nS9uWSBPHHUnrqmAD3LhX4lc1l3UQfIMfRE5KFXtSagj1OuqAX8I7uEOCRv7rQ==",
+      "type": "package",
+      "files": [
+        "Common.Logging.Core.3.3.0.nupkg.sha512",
+        "Common.Logging.Core.nuspec",
+        "lib/net35/Common.Logging.Core.dll",
+        "lib/net35/Common.Logging.Core.pdb",
+        "lib/net35/Common.Logging.Core.xml",
+        "lib/net40/Common.Logging.Core.dll",
+        "lib/net40/Common.Logging.Core.pdb",
+        "lib/net40/Common.Logging.Core.xml",
+        "lib/portable-win+net40+sl40+wp7/Common.Logging.Core.XML",
+        "lib/portable-win+net40+sl40+wp7/Common.Logging.Core.dll",
+        "lib/portable-win+net40+sl40+wp7/Common.Logging.Core.pdb"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "": [
+      "Common.Logging >= 3.3.0"
+    ],
+    "DNX,Version=v4.5.1": [
+      "System.ServiceModel"
+    ]
+  }
+}

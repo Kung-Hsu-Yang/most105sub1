@@ -1,0 +1,7 @@
+C:\Users\sam\Desktop\oneM2M程式開發相關\CoAP.NET-master\CoAP.NET\bin\Debug\NET20\CoAP.NET.dll
+C:\Users\sam\Desktop\oneM2M程式開發相關\CoAP.NET-master\CoAP.NET\bin\Debug\NET20\CoAP.NET.pdb
+C:\Users\sam\Desktop\oneM2M程式開發相關\CoAP.NET-master\CoAP.NET\bin\Debug\NET20\Common.Logging.Core.dll
+C:\Users\sam\Desktop\oneM2M程式開發相關\CoAP.NET-master\CoAP.NET\bin\Debug\NET20\Common.Logging.dll
+C:\Users\sam\Desktop\oneM2M程式開發相關\CoAP.NET-master\CoAP.NET\obj\Debug\CoAP.NET.csprojResolveAssemblyReference.cache
+C:\Users\sam\Desktop\oneM2M程式開發相關\CoAP.NET-master\CoAP.NET\obj\Debug\CoAP.NET.dll
+C:\Users\sam\Desktop\oneM2M程式開發相關\CoAP.NET-master\CoAP.NET\obj\Debug\CoAP.NET.pdb

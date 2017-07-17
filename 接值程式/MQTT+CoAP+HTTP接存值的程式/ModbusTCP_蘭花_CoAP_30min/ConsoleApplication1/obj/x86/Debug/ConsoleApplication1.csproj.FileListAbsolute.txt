@@ -1,0 +1,9 @@
+C:\Users\sam\Desktop\oneM2M程式開發相關\CoAP.NET-master\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\sam\Desktop\oneM2M程式開發相關\CoAP.NET-master\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\sam\Desktop\oneM2M程式開發相關\CoAP.NET-master\ConsoleApplication1\bin\Debug\CoAP.NET.dll
+C:\Users\sam\Desktop\oneM2M程式開發相關\CoAP.NET-master\ConsoleApplication1\bin\Debug\Common.Logging.Core.dll
+C:\Users\sam\Desktop\oneM2M程式開發相關\CoAP.NET-master\ConsoleApplication1\bin\Debug\Common.Logging.dll
+C:\Users\sam\Desktop\oneM2M程式開發相關\CoAP.NET-master\ConsoleApplication1\bin\Debug\CoAP.NET.pdb
+C:\Users\sam\Desktop\oneM2M程式開發相關\CoAP.NET-master\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\sam\Desktop\oneM2M程式開發相關\CoAP.NET-master\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\sam\Desktop\oneM2M程式開發相關\CoAP.NET-master\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

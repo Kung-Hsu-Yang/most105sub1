@@ -1,0 +1,2342 @@
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHT" not found; SQL statement:
+ALTER TABLE ACCESSRIGHT DROP CONSTRAINT FK_ACCESSRIGHT_SELFPERMISSIONS_ID [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHT" not found; SQL statement:
+ALTER TABLE ACCESSRIGHT DROP CONSTRAINT FK_ACCESSRIGHT_PERMISSIONS_ID [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATION" not found; SQL statement:
+ALTER TABLE APPLICATION DROP CONSTRAINT FK_APPLICATION_APOCPATHS_ID [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "NOTIFICATIONCHANNEL" not found; SQL statement:
+ALTER TABLE NOTIFICATIONCHANNEL DROP CONSTRAINT FK_NOTIFICATIONCHANNEL_CHANNELDATA_ID [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS_APOCPATH" not found; SQL statement:
+ALTER TABLE APOCPATHS_APOCPATH DROP CONSTRAINT FK_APOCPATHS_APOCPATH_APOCPATHS_ID [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE_PERMISSION" not found; SQL statement:
+ALTER TABLE PERMISSIONLISTTYPE_PERMISSION DROP CONSTRAINT PERMISSIONLISTTYPE_PERMISSIONPERMISSIONLISTTYPE_ID [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHT" not found; SQL statement:
+DROP TABLE ACCESSRIGHT [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHTANNC" not found; SQL statement:
+DROP TABLE ACCESSRIGHTANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS" not found; SQL statement:
+DROP TABLE APOCPATHS [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ATTACHEDDEVICE" not found; SQL statement:
+DROP TABLE ATTACHEDDEVICE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATION" not found; SQL statement:
+DROP TABLE APPLICATION [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATIONANNC" not found; SQL statement:
+DROP TABLE APPLICATIONANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CHANNELDATA" not found; SQL statement:
+DROP TABLE CHANNELDATA [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINERANNC" not found; SQL statement:
+DROP TABLE CONTAINERANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINER" not found; SQL statement:
+DROP TABLE CONTAINER [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCE" not found; SQL statement:
+DROP TABLE CONTENTINSTANCE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCES" not found; SQL statement:
+DROP TABLE CONTENTINSTANCES [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "EXECINSTANCE" not found; SQL statement:
+DROP TABLE EXECINSTANCE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPENTITY" not found; SQL statement:
+DROP TABLE GROUPENTITY [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPANNC" not found; SQL statement:
+DROP TABLE GROUPANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINER" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINER [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINERANNC" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINERANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "M2MPOC" not found; SQL statement:
+DROP TABLE M2MPOC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTCMD" not found; SQL statement:
+DROP TABLE MGMTCMD [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTOBJ" not found; SQL statement:
+DROP TABLE MGMTOBJ [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "NOTIFICATIONCHANNEL" not found; SQL statement:
+DROP TABLE NOTIFICATIONCHANNEL [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "PARAMETERS" not found; SQL statement:
+DROP TABLE PARAMETERS [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "SCL" not found; SQL statement:
+DROP TABLE SCL [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "SCLBASE" not found; SQL statement:
+DROP TABLE SCLBASE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "SUBSCRIPTION" not found; SQL statement:
+DROP TABLE SUBSCRIPTION [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS_APOCPATH" not found; SQL statement:
+DROP TABLE APOCPATHS_APOCPATH [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE_PERMISSION" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE_PERMISSION [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHT" not found; SQL statement:
+DROP TABLE ACCESSRIGHT [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHTANNC" not found; SQL statement:
+DROP TABLE ACCESSRIGHTANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS" not found; SQL statement:
+DROP TABLE APOCPATHS [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ATTACHEDDEVICE" not found; SQL statement:
+DROP TABLE ATTACHEDDEVICE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATION" not found; SQL statement:
+DROP TABLE APPLICATION [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATIONANNC" not found; SQL statement:
+DROP TABLE APPLICATIONANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CHANNELDATA" not found; SQL statement:
+DROP TABLE CHANNELDATA [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINERANNC" not found; SQL statement:
+DROP TABLE CONTAINERANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINER" not found; SQL statement:
+DROP TABLE CONTAINER [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCE" not found; SQL statement:
+DROP TABLE CONTENTINSTANCE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCES" not found; SQL statement:
+DROP TABLE CONTENTINSTANCES [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "EXECINSTANCE" not found; SQL statement:
+DROP TABLE EXECINSTANCE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPENTITY" not found; SQL statement:
+DROP TABLE GROUPENTITY [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPANNC" not found; SQL statement:
+DROP TABLE GROUPANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINER" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINER [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINERANNC" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINERANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "M2MPOC" not found; SQL statement:
+DROP TABLE M2MPOC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTCMD" not found; SQL statement:
+DROP TABLE MGMTCMD [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTOBJ" not found; SQL statement:
+DROP TABLE MGMTOBJ [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "NOTIFICATIONCHANNEL" not found; SQL statement:
+DROP TABLE NOTIFICATIONCHANNEL [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "PARAMETERS" not found; SQL statement:
+DROP TABLE PARAMETERS [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "SCL" not found; SQL statement:
+DROP TABLE SCL [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "SCLBASE" not found; SQL statement:
+DROP TABLE SCLBASE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "SUBSCRIPTION" not found; SQL statement:
+DROP TABLE SUBSCRIPTION [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS_APOCPATH" not found; SQL statement:
+DROP TABLE APOCPATHS_APOCPATH [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE_PERMISSION" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE_PERMISSION [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHT" not found; SQL statement:
+DROP TABLE ACCESSRIGHT [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHTANNC" not found; SQL statement:
+DROP TABLE ACCESSRIGHTANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS" not found; SQL statement:
+DROP TABLE APOCPATHS [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ATTACHEDDEVICE" not found; SQL statement:
+DROP TABLE ATTACHEDDEVICE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATION" not found; SQL statement:
+DROP TABLE APPLICATION [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATIONANNC" not found; SQL statement:
+DROP TABLE APPLICATIONANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CHANNELDATA" not found; SQL statement:
+DROP TABLE CHANNELDATA [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINERANNC" not found; SQL statement:
+DROP TABLE CONTAINERANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINER" not found; SQL statement:
+DROP TABLE CONTAINER [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCE" not found; SQL statement:
+DROP TABLE CONTENTINSTANCE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCES" not found; SQL statement:
+DROP TABLE CONTENTINSTANCES [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "EXECINSTANCE" not found; SQL statement:
+DROP TABLE EXECINSTANCE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPENTITY" not found; SQL statement:
+DROP TABLE GROUPENTITY [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPANNC" not found; SQL statement:
+DROP TABLE GROUPANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINER" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINER [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINERANNC" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINERANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "M2MPOC" not found; SQL statement:
+DROP TABLE M2MPOC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTCMD" not found; SQL statement:
+DROP TABLE MGMTCMD [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTOBJ" not found; SQL statement:
+DROP TABLE MGMTOBJ [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "NOTIFICATIONCHANNEL" not found; SQL statement:
+DROP TABLE NOTIFICATIONCHANNEL [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "PARAMETERS" not found; SQL statement:
+DROP TABLE PARAMETERS [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "SCL" not found; SQL statement:
+DROP TABLE SCL [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "SCLBASE" not found; SQL statement:
+DROP TABLE SCLBASE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "SUBSCRIPTION" not found; SQL statement:
+DROP TABLE SUBSCRIPTION [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS_APOCPATH" not found; SQL statement:
+DROP TABLE APOCPATHS_APOCPATH [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE_PERMISSION" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE_PERMISSION [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHT" not found; SQL statement:
+DROP TABLE ACCESSRIGHT [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHTANNC" not found; SQL statement:
+DROP TABLE ACCESSRIGHTANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS" not found; SQL statement:
+DROP TABLE APOCPATHS [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ATTACHEDDEVICE" not found; SQL statement:
+DROP TABLE ATTACHEDDEVICE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATION" not found; SQL statement:
+DROP TABLE APPLICATION [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATIONANNC" not found; SQL statement:
+DROP TABLE APPLICATIONANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CHANNELDATA" not found; SQL statement:
+DROP TABLE CHANNELDATA [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINERANNC" not found; SQL statement:
+DROP TABLE CONTAINERANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINER" not found; SQL statement:
+DROP TABLE CONTAINER [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCE" not found; SQL statement:
+DROP TABLE CONTENTINSTANCE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCES" not found; SQL statement:
+DROP TABLE CONTENTINSTANCES [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "EXECINSTANCE" not found; SQL statement:
+DROP TABLE EXECINSTANCE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPENTITY" not found; SQL statement:
+DROP TABLE GROUPENTITY [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPANNC" not found; SQL statement:
+DROP TABLE GROUPANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINER" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINER [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINERANNC" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINERANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "M2MPOC" not found; SQL statement:
+DROP TABLE M2MPOC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTCMD" not found; SQL statement:
+DROP TABLE MGMTCMD [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTOBJ" not found; SQL statement:
+DROP TABLE MGMTOBJ [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "NOTIFICATIONCHANNEL" not found; SQL statement:
+DROP TABLE NOTIFICATIONCHANNEL [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "PARAMETERS" not found; SQL statement:
+DROP TABLE PARAMETERS [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "SCL" not found; SQL statement:
+DROP TABLE SCL [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "SCLBASE" not found; SQL statement:
+DROP TABLE SCLBASE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "SUBSCRIPTION" not found; SQL statement:
+DROP TABLE SUBSCRIPTION [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS_APOCPATH" not found; SQL statement:
+DROP TABLE APOCPATHS_APOCPATH [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE_PERMISSION" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE_PERMISSION [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHT" not found; SQL statement:
+DROP TABLE ACCESSRIGHT [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ACCESSRIGHTANNC" not found; SQL statement:
+DROP TABLE ACCESSRIGHTANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS" not found; SQL statement:
+DROP TABLE APOCPATHS [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "ATTACHEDDEVICE" not found; SQL statement:
+DROP TABLE ATTACHEDDEVICE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATION" not found; SQL statement:
+DROP TABLE APPLICATION [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APPLICATIONANNC" not found; SQL statement:
+DROP TABLE APPLICATIONANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CHANNELDATA" not found; SQL statement:
+DROP TABLE CHANNELDATA [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINERANNC" not found; SQL statement:
+DROP TABLE CONTAINERANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTAINER" not found; SQL statement:
+DROP TABLE CONTAINER [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCE" not found; SQL statement:
+DROP TABLE CONTENTINSTANCE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "CONTENTINSTANCES" not found; SQL statement:
+DROP TABLE CONTENTINSTANCES [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "EXECINSTANCE" not found; SQL statement:
+DROP TABLE EXECINSTANCE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPENTITY" not found; SQL statement:
+DROP TABLE GROUPENTITY [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "GROUPANNC" not found; SQL statement:
+DROP TABLE GROUPANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINER" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINER [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCATIONCONTAINERANNC" not found; SQL statement:
+DROP TABLE LOCATIONCONTAINERANNC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "M2MPOC" not found; SQL statement:
+DROP TABLE M2MPOC [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTCMD" not found; SQL statement:
+DROP TABLE MGMTCMD [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "MGMTOBJ" not found; SQL statement:
+DROP TABLE MGMTOBJ [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "NOTIFICATIONCHANNEL" not found; SQL statement:
+DROP TABLE NOTIFICATIONCHANNEL [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "PARAMETERS" not found; SQL statement:
+DROP TABLE PARAMETERS [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "SCL" not found; SQL statement:
+DROP TABLE SCL [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "SCLBASE" not found; SQL statement:
+DROP TABLE SCLBASE [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "SUBSCRIPTION" not found; SQL statement:
+DROP TABLE SUBSCRIPTION [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "APOCPATHS_APOCPATH" not found; SQL statement:
+DROP TABLE APOCPATHS_APOCPATH [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERMISSIONLISTTYPE_PERMISSION" not found; SQL statement:
+DROP TABLE PERMISSIONLISTTYPE_PERMISSION [42102-168]
+04-25 10:54:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "SEQUENCE" not found; SQL statement:
+SELECT SEQ_NAME FROM SEQUENCE WHERE SEQ_NAME <> SEQ_NAME [42102-168]
+06-15 12:42:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Timeout trying to lock table "CONTENTINSTANCE"; SQL statement:
+SELECT URI, ACCESSRIGHTID, CONTENTSIZE, CREATIONTIME, DELAYTOLERANCE, HREF, ID, LASTMODIFIEDTIME, contentTypeBase64Binary, VALUE, CONTENTTYPE, SEARCHSTRING FROM CONTENTINSTANCE WHERE URI LIKE ? ORDER BY CREATIONTIME [50200-168]
+06-17 20:42:12 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Timeout trying to lock table "CONTENTINSTANCE"; SQL statement:
+SELECT URI, ACCESSRIGHTID, CONTENTSIZE, CREATIONTIME, DELAYTOLERANCE, HREF, ID, LASTMODIFIEDTIME, contentTypeBase64Binary, VALUE, CONTENTTYPE, SEARCHSTRING FROM CONTENTINSTANCE WHERE URI LIKE ? ORDER BY CREATIONTIME [50200-168]
+06-17 21:27:36 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Timeout trying to lock table "CONTENTINSTANCE"; SQL statement:
+SELECT URI, ACCESSRIGHTID, CONTENTSIZE, CREATIONTIME, DELAYTOLERANCE, HREF, ID, LASTMODIFIEDTIME, contentTypeBase64Binary, VALUE, CONTENTTYPE, SEARCHSTRING FROM CONTENTINSTANCE WHERE URI LIKE ? ORDER BY CREATIONTIME [50200-168]
+06-17 21:27:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Timeout trying to lock table "CONTENTINSTANCE"; SQL statement:
+SELECT URI, ACCESSRIGHTID, CONTENTSIZE, CREATIONTIME, DELAYTOLERANCE, HREF, ID, LASTMODIFIEDTIME, contentTypeBase64Binary, VALUE, CONTENTTYPE, SEARCHSTRING FROM CONTENTINSTANCE WHERE URI LIKE ? ORDER BY CREATIONTIME [50200-168]
+06-18 20:15:01 pageStore: Transaction log could not be truncated; size: 16 MB
+06-18 22:21:22 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Timeout trying to lock table "CONTENTINSTANCE"; SQL statement:
+SELECT URI, ACCESSRIGHTID, CONTENTSIZE, CREATIONTIME, DELAYTOLERANCE, HREF, ID, LASTMODIFIEDTIME, contentTypeBase64Binary, VALUE, CONTENTTYPE, SEARCHSTRING FROM CONTENTINSTANCE WHERE URI LIKE ? ORDER BY CREATIONTIME [50200-168]
+06-26 01:45:59 pageStore: Transaction log could not be truncated; size: 16 MB
+06-26 02:11:45 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Out of memory.; SQL statement:
+INSERT INTO CONTENTINSTANCE (URI, ACCESSRIGHTID, CONTENTSIZE, CREATIONTIME, DELAYTOLERANCE, HREF, ID, LASTMODIFIEDTIME, contentTypeBase64Binary, VALUE, CONTENTTYPE, SEARCHSTRING) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) [90108-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:158)
+	at org.h2.message.DbException.convert(DbException.java:275)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:139)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:124)
+	at org.h2.command.dml.Insert.update(Insert.java:84)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:75)
+	at org.h2.command.Command.executeUpdate(Command.java:230)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:156)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:142)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:890)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWorkObjectLevelModifyQuery(ObjectLevelModifyQuery.java:108)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWork(ObjectLevelModifyQuery.java:85)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1737)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitNewObjectsForClassWithChangeSet(CommitManager.java:226)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsForClassWithChangeSet(CommitManager.java:193)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:138)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithPreBuiltChangeSet(UnitOfWorkImpl.java:1587)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.writeChanges(RepeatableWriteUnitOfWork.java:452)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.flush(EntityManagerImpl.java:863)
+	at org.eclipse.om2m.core.dao.DAO.update(DAO.java:84)
+	at org.eclipse.om2m.core.controller.ContentInstanceController.doCreate(ContentInstanceController.java:170)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:153)
+	at org.eclipse.om2m.comm.http.RestHttpServlet.service(RestHttpServlet.java:104)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:360)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:684)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:503)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:229)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1086)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:429)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1020)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:370)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:494)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:971)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1033)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:651)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:696)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.OutOfMemoryError: Requested memory: 2349816
+	at org.h2.util.Utils.newBytes(Utils.java:374)
+	at org.h2.store.Data.expand(Data.java:1263)
+	at org.h2.store.Data.checkCapacity(Data.java:1258)
+	at org.h2.index.PageDataLeaf.addRowTry(PageDataLeaf.java:241)
+	at org.h2.index.PageDataNode.addRowTry(PageDataNode.java:129)
+	at org.h2.index.PageDataIndex.addTry(PageDataIndex.java:167)
+	at org.h2.index.PageDataIndex.add(PageDataIndex.java:130)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:121)
+	... 69 more
+Caused by: java.lang.OutOfMemoryError: Java heap space
+06-26 02:11:45 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+SELECT 1 [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.command.Command.executeQuery(Command.java:189)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:109)
+	at org.eclipse.persistence.internal.databaseaccess.DatabasePlatform.wasFailureCommunicationBased(DatabasePlatform.java:2849)
+	at org.eclipse.persistence.platform.server.ServerPlatformBase.wasFailureCommunicationBased(ServerPlatformBase.java:528)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.processExceptionForCommError(DatabaseAccessor.java:1607)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:898)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWorkObjectLevelModifyQuery(ObjectLevelModifyQuery.java:108)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWork(ObjectLevelModifyQuery.java:85)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1737)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitNewObjectsForClassWithChangeSet(CommitManager.java:226)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsForClassWithChangeSet(CommitManager.java:193)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:138)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithPreBuiltChangeSet(UnitOfWorkImpl.java:1587)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.writeChanges(RepeatableWriteUnitOfWork.java:452)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.flush(EntityManagerImpl.java:863)
+	at org.eclipse.om2m.core.dao.DAO.update(DAO.java:84)
+	at org.eclipse.om2m.core.controller.ContentInstanceController.doCreate(ContentInstanceController.java:170)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:153)
+	at org.eclipse.om2m.comm.http.RestHttpServlet.service(RestHttpServlet.java:104)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:360)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:684)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:503)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:229)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1086)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:429)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1020)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:370)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:494)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:971)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1033)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:651)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:696)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+06-26 02:18:52 pageStore: Transaction log could not be truncated; size: 95 MB
+06-26 02:39:26 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Out of memory.; SQL statement:
+INSERT INTO CONTENTINSTANCE (URI, ACCESSRIGHTID, CONTENTSIZE, CREATIONTIME, DELAYTOLERANCE, HREF, ID, LASTMODIFIEDTIME, contentTypeBase64Binary, VALUE, CONTENTTYPE, SEARCHSTRING) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) [90108-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:158)
+	at org.h2.message.DbException.convert(DbException.java:275)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:139)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:124)
+	at org.h2.command.dml.Insert.update(Insert.java:84)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:75)
+	at org.h2.command.Command.executeUpdate(Command.java:230)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:156)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:142)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:890)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWorkObjectLevelModifyQuery(ObjectLevelModifyQuery.java:108)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWork(ObjectLevelModifyQuery.java:85)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1737)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitNewObjectsForClassWithChangeSet(CommitManager.java:226)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsForClassWithChangeSet(CommitManager.java:193)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:138)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithPreBuiltChangeSet(UnitOfWorkImpl.java:1587)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.writeChanges(RepeatableWriteUnitOfWork.java:452)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.flush(EntityManagerImpl.java:863)
+	at org.eclipse.om2m.core.dao.DAO.update(DAO.java:84)
+	at org.eclipse.om2m.core.controller.ContentInstanceController.doCreate(ContentInstanceController.java:170)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:153)
+	at org.eclipse.om2m.comm.coap.CoapMessageDeliverer.service(CoapServer.java:177)
+	at org.eclipse.om2m.comm.coap.CoapMessageDeliverer.deliverRequest(CoapServer.java:83)
+	at ch.ethz.inf.vs.californium.network.stack.CoapStack$StackTopAdapter.receiveRequest(CoapStack.java:158)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.BlockwiseLayer.receiveRequest(BlockwiseLayer.java:160)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.TokenLayer.receiveRequest(TokenLayer.java:55)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.ReliabilityLayer.receiveRequest(ReliabilityLayer.java:178)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.CoapStack.receiveRequest(CoapStack.java:111)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl.receiveMessage(CoAPEndpoint.java:544)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl.access$800(CoAPEndpoint.java:482)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl$1.run(CoAPEndpoint.java:494)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$4.run(CoAPEndpoint.java:620)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.OutOfMemoryError: Requested memory: 2349814
+	at org.h2.util.Utils.newBytes(Utils.java:374)
+	at org.h2.store.Data.expand(Data.java:1263)
+	at org.h2.store.Data.checkCapacity(Data.java:1258)
+	at org.h2.index.PageDataLeaf.addRowTry(PageDataLeaf.java:241)
+	at org.h2.index.PageDataNode.addRowTry(PageDataNode.java:129)
+	at org.h2.index.PageDataIndex.addTry(PageDataIndex.java:167)
+	at org.h2.index.PageDataIndex.add(PageDataIndex.java:130)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:121)
+	... 64 more
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at org.h2.util.Utils.newBytes(Utils.java:372)
+	at org.h2.store.Data.expand(Data.java:1263)
+	at org.h2.store.Data.checkCapacity(Data.java:1258)
+	at org.h2.index.PageDataLeaf.addRowTry(PageDataLeaf.java:241)
+	at org.h2.index.PageDataNode.addRowTry(PageDataNode.java:129)
+	at org.h2.index.PageDataIndex.addTry(PageDataIndex.java:167)
+	at org.h2.index.PageDataIndex.add(PageDataIndex.java:130)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:121)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:124)
+	at org.h2.command.dml.Insert.update(Insert.java:84)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:75)
+	at org.h2.command.Command.executeUpdate(Command.java:230)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:156)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:142)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:890)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+06-26 02:39:26 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+SELECT 1 [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.command.Command.executeQuery(Command.java:189)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:109)
+	at org.eclipse.persistence.internal.databaseaccess.DatabasePlatform.wasFailureCommunicationBased(DatabasePlatform.java:2849)
+	at org.eclipse.persistence.platform.server.ServerPlatformBase.wasFailureCommunicationBased(ServerPlatformBase.java:528)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.processExceptionForCommError(DatabaseAccessor.java:1607)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:898)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWorkObjectLevelModifyQuery(ObjectLevelModifyQuery.java:108)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWork(ObjectLevelModifyQuery.java:85)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1737)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitNewObjectsForClassWithChangeSet(CommitManager.java:226)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsForClassWithChangeSet(CommitManager.java:193)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:138)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithPreBuiltChangeSet(UnitOfWorkImpl.java:1587)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.writeChanges(RepeatableWriteUnitOfWork.java:452)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.flush(EntityManagerImpl.java:863)
+	at org.eclipse.om2m.core.dao.DAO.update(DAO.java:84)
+	at org.eclipse.om2m.core.controller.ContentInstanceController.doCreate(ContentInstanceController.java:170)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:153)
+	at org.eclipse.om2m.comm.coap.CoapMessageDeliverer.service(CoapServer.java:177)
+	at org.eclipse.om2m.comm.coap.CoapMessageDeliverer.deliverRequest(CoapServer.java:83)
+	at ch.ethz.inf.vs.californium.network.stack.CoapStack$StackTopAdapter.receiveRequest(CoapStack.java:158)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.BlockwiseLayer.receiveRequest(BlockwiseLayer.java:160)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.TokenLayer.receiveRequest(TokenLayer.java:55)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.ReliabilityLayer.receiveRequest(ReliabilityLayer.java:178)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.CoapStack.receiveRequest(CoapStack.java:111)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl.receiveMessage(CoAPEndpoint.java:544)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl.access$800(CoAPEndpoint.java:482)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl$1.run(CoAPEndpoint.java:494)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$4.run(CoAPEndpoint.java:620)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+06-26 10:34:51 database: disconnecting session #2
+org.h2.message.DbException: The database has been closed [90098-168]
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.engine.Session.close(Session.java:560)
+	at org.h2.engine.Database.closeAllSessionsException(Database.java:1052)
+	at org.h2.engine.Database.close(Database.java:1088)
+	at org.h2.engine.DatabaseCloser.run(DatabaseCloser.java:80)
+Caused by: org.h2.jdbc.JdbcSQLException: The database has been closed [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	... 8 more
+06-26 10:34:51 database: close
+org.h2.message.DbException: The database has been closed; SQL statement:
+SELECT ID FROM INFORMATION_SCHEMA.LOBS WHERE TABLE = ? [90098-168]
+	at org.h2.message.DbException.convert(DbException.java:269)
+	at org.h2.store.LobStorage.removeAllForTable(LobStorage.java:180)
+	at org.h2.engine.Database.close(Database.java:1110)
+	at org.h2.engine.DatabaseCloser.run(DatabaseCloser.java:80)
+Caused by: org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+SELECT ID FROM INFORMATION_SCHEMA.LOBS WHERE TABLE = ? [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.command.Command.executeQuery(Command.java:189)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:109)
+	at org.h2.store.LobStorage.removeAllForTable(LobStorage.java:174)
+	... 2 more
+06-26 10:35:26 pageStore: Transaction log could not be truncated; size: 92 MB
+06-26 11:09:38 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Out of memory.; SQL statement:
+INSERT INTO CONTENTINSTANCE (URI, ACCESSRIGHTID, CONTENTSIZE, CREATIONTIME, DELAYTOLERANCE, HREF, ID, LASTMODIFIEDTIME, contentTypeBase64Binary, VALUE, CONTENTTYPE, SEARCHSTRING) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) [90108-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:158)
+	at org.h2.message.DbException.convert(DbException.java:275)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:139)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:124)
+	at org.h2.command.dml.Insert.update(Insert.java:84)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:75)
+	at org.h2.command.Command.executeUpdate(Command.java:230)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:156)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:142)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:890)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWorkObjectLevelModifyQuery(ObjectLevelModifyQuery.java:108)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWork(ObjectLevelModifyQuery.java:85)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1737)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitNewObjectsForClassWithChangeSet(CommitManager.java:226)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsForClassWithChangeSet(CommitManager.java:193)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:138)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithPreBuiltChangeSet(UnitOfWorkImpl.java:1587)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.writeChanges(RepeatableWriteUnitOfWork.java:452)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.flush(EntityManagerImpl.java:863)
+	at org.eclipse.om2m.core.dao.DAO.update(DAO.java:84)
+	at org.eclipse.om2m.core.controller.ContentInstanceController.doCreate(ContentInstanceController.java:170)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:153)
+	at org.eclipse.om2m.comm.http.RestHttpServlet.service(RestHttpServlet.java:104)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:360)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:684)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:503)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:229)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1086)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:429)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1020)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:370)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:494)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:971)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1033)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:651)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:696)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.OutOfMemoryError: Requested memory: 2349898
+	at org.h2.util.Utils.newBytes(Utils.java:374)
+	at org.h2.store.Data.expand(Data.java:1263)
+	at org.h2.store.Data.checkCapacity(Data.java:1258)
+	at org.h2.index.PageDataLeaf.addRowTry(PageDataLeaf.java:241)
+	at org.h2.index.PageDataNode.addRowTry(PageDataNode.java:129)
+	at org.h2.index.PageDataIndex.addTry(PageDataIndex.java:167)
+	at org.h2.index.PageDataIndex.add(PageDataIndex.java:130)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:121)
+	... 69 more
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at org.h2.util.Utils.newBytes(Utils.java:372)
+	at org.h2.store.Data.expand(Data.java:1263)
+	at org.h2.store.Data.checkCapacity(Data.java:1258)
+	at org.h2.index.PageDataLeaf.addRowTry(PageDataLeaf.java:241)
+	at org.h2.index.PageDataNode.addRowTry(PageDataNode.java:129)
+	at org.h2.index.PageDataIndex.addTry(PageDataIndex.java:167)
+	at org.h2.index.PageDataIndex.add(PageDataIndex.java:130)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:121)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:124)
+	at org.h2.command.dml.Insert.update(Insert.java:84)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:75)
+	at org.h2.command.Command.executeUpdate(Command.java:230)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:156)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:142)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:890)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+06-26 11:09:38 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+SELECT 1 [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.command.Command.executeQuery(Command.java:189)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:109)
+	at org.eclipse.persistence.internal.databaseaccess.DatabasePlatform.wasFailureCommunicationBased(DatabasePlatform.java:2849)
+	at org.eclipse.persistence.platform.server.ServerPlatformBase.wasFailureCommunicationBased(ServerPlatformBase.java:528)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.processExceptionForCommError(DatabaseAccessor.java:1607)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:898)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWorkObjectLevelModifyQuery(ObjectLevelModifyQuery.java:108)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWork(ObjectLevelModifyQuery.java:85)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1737)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitNewObjectsForClassWithChangeSet(CommitManager.java:226)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsForClassWithChangeSet(CommitManager.java:193)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:138)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithPreBuiltChangeSet(UnitOfWorkImpl.java:1587)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.writeChanges(RepeatableWriteUnitOfWork.java:452)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.flush(EntityManagerImpl.java:863)
+	at org.eclipse.om2m.core.dao.DAO.update(DAO.java:84)
+	at org.eclipse.om2m.core.controller.ContentInstanceController.doCreate(ContentInstanceController.java:170)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:153)
+	at org.eclipse.om2m.comm.http.RestHttpServlet.service(RestHttpServlet.java:104)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:360)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:684)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:503)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:229)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1086)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:429)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1020)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:370)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:494)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:971)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1033)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:651)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:696)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+06-26 11:11:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+SELECT URI, ACCESSRIGHTID, CONTENTSIZE, CREATIONTIME, DELAYTOLERANCE, HREF, ID, LASTMODIFIEDTIME, contentTypeBase64Binary, VALUE, CONTENTTYPE, SEARCHSTRING FROM CONTENTINSTANCE WHERE URI LIKE ? ORDER BY CREATIONTIME [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.command.Command.executeQuery(Command.java:189)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:109)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeSelect(DatabaseAccessor.java:1007)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:642)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ServerSession.executeCall(ServerSession.java:570)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeSelectCall(DatasourceCallQueryMechanism.java:299)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.selectAllRows(DatasourceCallQueryMechanism.java:694)
+	at org.eclipse.persistence.internal.queries.ExpressionQueryMechanism.selectAllRowsFromTable(ExpressionQueryMechanism.java:2738)
+	at org.eclipse.persistence.internal.queries.ExpressionQueryMechanism.selectAllRows(ExpressionQueryMechanism.java:2691)
+	at org.eclipse.persistence.queries.ReadAllQuery.executeObjectLevelReadQuery(ReadAllQuery.java:495)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.executeDatabaseQuery(ObjectLevelReadQuery.java:1168)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.execute(ObjectLevelReadQuery.java:1127)
+	at org.eclipse.persistence.queries.ReadAllQuery.execute(ReadAllQuery.java:403)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.executeInUnitOfWork(ObjectLevelReadQuery.java:1215)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1751)
+	at org.eclipse.persistence.internal.jpa.QueryImpl.executeReadQuery(QueryImpl.java:258)
+	at org.eclipse.persistence.internal.jpa.QueryImpl.getResultList(QueryImpl.java:469)
+	at org.eclipse.om2m.core.dao.ContentInstancesDAO.find(ContentInstancesDAO.java:58)
+	at org.eclipse.om2m.core.dao.ContentInstancesDAO.find(ContentInstancesDAO.java:1)
+	at org.eclipse.om2m.core.controller.ContentInstancesController.doRetrieve(ContentInstancesController.java:90)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:151)
+	at org.eclipse.om2m.comm.http.RestHttpServlet.service(RestHttpServlet.java:104)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:360)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:684)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:503)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:229)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1086)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:429)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1020)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:370)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:494)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:971)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1033)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:644)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:696)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+06-26 11:11:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+SELECT 1 [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.command.Command.executeQuery(Command.java:189)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:109)
+	at org.eclipse.persistence.internal.databaseaccess.DatabasePlatform.wasFailureCommunicationBased(DatabasePlatform.java:2849)
+	at org.eclipse.persistence.platform.server.ServerPlatformBase.wasFailureCommunicationBased(ServerPlatformBase.java:528)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.processExceptionForCommError(DatabaseAccessor.java:1607)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:674)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ServerSession.executeCall(ServerSession.java:570)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeSelectCall(DatasourceCallQueryMechanism.java:299)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.selectAllRows(DatasourceCallQueryMechanism.java:694)
+	at org.eclipse.persistence.internal.queries.ExpressionQueryMechanism.selectAllRowsFromTable(ExpressionQueryMechanism.java:2738)
+	at org.eclipse.persistence.internal.queries.ExpressionQueryMechanism.selectAllRows(ExpressionQueryMechanism.java:2691)
+	at org.eclipse.persistence.queries.ReadAllQuery.executeObjectLevelReadQuery(ReadAllQuery.java:495)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.executeDatabaseQuery(ObjectLevelReadQuery.java:1168)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.execute(ObjectLevelReadQuery.java:1127)
+	at org.eclipse.persistence.queries.ReadAllQuery.execute(ReadAllQuery.java:403)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.executeInUnitOfWork(ObjectLevelReadQuery.java:1215)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1751)
+	at org.eclipse.persistence.internal.jpa.QueryImpl.executeReadQuery(QueryImpl.java:258)
+	at org.eclipse.persistence.internal.jpa.QueryImpl.getResultList(QueryImpl.java:469)
+	at org.eclipse.om2m.core.dao.ContentInstancesDAO.find(ContentInstancesDAO.java:58)
+	at org.eclipse.om2m.core.dao.ContentInstancesDAO.find(ContentInstancesDAO.java:1)
+	at org.eclipse.om2m.core.controller.ContentInstancesController.doRetrieve(ContentInstancesController.java:90)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:151)
+	at org.eclipse.om2m.comm.http.RestHttpServlet.service(RestHttpServlet.java:104)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:360)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:684)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:503)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:229)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1086)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:429)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1020)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:370)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:494)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:971)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1033)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:644)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:696)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+06-26 11:11:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: The database has been closed [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.engine.Session.close(Session.java:560)
+	at org.h2.jdbc.JdbcConnection.close(JdbcConnection.java:361)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.closeDatasourceConnection(DatabaseAccessor.java:493)
+	at org.eclipse.persistence.internal.databaseaccess.DatasourceAccessor.disconnect(DatasourceAccessor.java:497)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.disconnect(DatabaseAccessor.java:506)
+	at org.eclipse.persistence.sessions.server.ConnectionPool.releaseConnection(ConnectionPool.java:337)
+	at org.eclipse.persistence.sessions.server.ServerSession.releaseConnectionAfterCall(ServerSession.java:614)
+	at org.eclipse.persistence.sessions.server.ServerSession.executeCall(ServerSession.java:580)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeSelectCall(DatasourceCallQueryMechanism.java:299)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.selectAllRows(DatasourceCallQueryMechanism.java:694)
+	at org.eclipse.persistence.internal.queries.ExpressionQueryMechanism.selectAllRowsFromTable(ExpressionQueryMechanism.java:2738)
+	at org.eclipse.persistence.internal.queries.ExpressionQueryMechanism.selectAllRows(ExpressionQueryMechanism.java:2691)
+	at org.eclipse.persistence.queries.ReadAllQuery.executeObjectLevelReadQuery(ReadAllQuery.java:495)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.executeDatabaseQuery(ObjectLevelReadQuery.java:1168)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.execute(ObjectLevelReadQuery.java:1127)
+	at org.eclipse.persistence.queries.ReadAllQuery.execute(ReadAllQuery.java:403)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.executeInUnitOfWork(ObjectLevelReadQuery.java:1215)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1751)
+	at org.eclipse.persistence.internal.jpa.QueryImpl.executeReadQuery(QueryImpl.java:258)
+	at org.eclipse.persistence.internal.jpa.QueryImpl.getResultList(QueryImpl.java:469)
+	at org.eclipse.om2m.core.dao.ContentInstancesDAO.find(ContentInstancesDAO.java:58)
+	at org.eclipse.om2m.core.dao.ContentInstancesDAO.find(ContentInstancesDAO.java:1)
+	at org.eclipse.om2m.core.controller.ContentInstancesController.doRetrieve(ContentInstancesController.java:90)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:151)
+	at org.eclipse.om2m.comm.http.RestHttpServlet.service(RestHttpServlet.java:104)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:360)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:684)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:503)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:229)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1086)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:429)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1020)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:370)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:494)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:971)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1033)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:644)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:696)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+06-26 11:19:20 database: disconnecting session #2
+org.h2.message.DbException: The database has been closed [90098-168]
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.engine.Session.close(Session.java:560)
+	at org.h2.engine.Database.closeAllSessionsException(Database.java:1052)
+	at org.h2.engine.Database.close(Database.java:1088)
+	at org.h2.engine.DatabaseCloser.run(DatabaseCloser.java:80)
+Caused by: org.h2.jdbc.JdbcSQLException: The database has been closed [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	... 8 more
+06-26 11:19:20 database: close
+org.h2.message.DbException: The database has been closed; SQL statement:
+SELECT ID FROM INFORMATION_SCHEMA.LOBS WHERE TABLE = ? [90098-168]
+	at org.h2.message.DbException.convert(DbException.java:269)
+	at org.h2.store.LobStorage.removeAllForTable(LobStorage.java:180)
+	at org.h2.engine.Database.close(Database.java:1110)
+	at org.h2.engine.DatabaseCloser.run(DatabaseCloser.java:80)
+Caused by: org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+SELECT ID FROM INFORMATION_SCHEMA.LOBS WHERE TABLE = ? [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.command.Command.executeQuery(Command.java:189)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:109)
+	at org.h2.store.LobStorage.removeAllForTable(LobStorage.java:174)
+	... 2 more
+06-26 11:19:46 pageStore: Transaction log could not be truncated; size: 106 MB
+06-26 12:05:30 pageStore: Transaction log could not be truncated; size: 29 MB
+06-26 12:19:27 pageStore: Transaction log could not be truncated; size: 16 MB
+06-26 12:37:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Out of memory.; SQL statement:
+INSERT INTO CONTENTINSTANCE (URI, ACCESSRIGHTID, CONTENTSIZE, CREATIONTIME, DELAYTOLERANCE, HREF, ID, LASTMODIFIEDTIME, contentTypeBase64Binary, VALUE, CONTENTTYPE, SEARCHSTRING) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) [90108-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:158)
+	at org.h2.message.DbException.convert(DbException.java:275)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:139)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:124)
+	at org.h2.command.dml.Insert.update(Insert.java:84)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:75)
+	at org.h2.command.Command.executeUpdate(Command.java:230)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:156)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:142)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:890)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWorkObjectLevelModifyQuery(ObjectLevelModifyQuery.java:108)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWork(ObjectLevelModifyQuery.java:85)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1737)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitNewObjectsForClassWithChangeSet(CommitManager.java:226)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsForClassWithChangeSet(CommitManager.java:193)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:138)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithPreBuiltChangeSet(UnitOfWorkImpl.java:1587)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.writeChanges(RepeatableWriteUnitOfWork.java:452)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.flush(EntityManagerImpl.java:863)
+	at org.eclipse.om2m.core.dao.DAO.update(DAO.java:84)
+	at org.eclipse.om2m.core.controller.ContentInstanceController.doCreate(ContentInstanceController.java:170)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:153)
+	at org.eclipse.om2m.comm.coap.CoapMessageDeliverer.service(CoapServer.java:177)
+	at org.eclipse.om2m.comm.coap.CoapMessageDeliverer.deliverRequest(CoapServer.java:83)
+	at ch.ethz.inf.vs.californium.network.stack.CoapStack$StackTopAdapter.receiveRequest(CoapStack.java:158)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.BlockwiseLayer.receiveRequest(BlockwiseLayer.java:160)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.TokenLayer.receiveRequest(TokenLayer.java:55)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.ReliabilityLayer.receiveRequest(ReliabilityLayer.java:178)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.CoapStack.receiveRequest(CoapStack.java:111)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl.receiveMessage(CoAPEndpoint.java:544)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl.access$800(CoAPEndpoint.java:482)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl$1.run(CoAPEndpoint.java:494)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$4.run(CoAPEndpoint.java:620)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.OutOfMemoryError: Requested memory: 2353958
+	at org.h2.util.Utils.newBytes(Utils.java:374)
+	at org.h2.store.Data.expand(Data.java:1263)
+	at org.h2.store.Data.checkCapacity(Data.java:1258)
+	at org.h2.index.PageDataLeaf.writeData(PageDataLeaf.java:497)
+	at org.h2.index.PageDataLeaf.addRowTry(PageDataLeaf.java:235)
+	at org.h2.index.PageDataNode.addRowTry(PageDataNode.java:129)
+	at org.h2.index.PageDataIndex.addTry(PageDataIndex.java:167)
+	at org.h2.index.PageDataIndex.add(PageDataIndex.java:130)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:121)
+	... 64 more
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at org.h2.util.Utils.newBytes(Utils.java:372)
+	at org.h2.store.Data.expand(Data.java:1263)
+	at org.h2.store.Data.checkCapacity(Data.java:1258)
+	at org.h2.index.PageDataLeaf.writeData(PageDataLeaf.java:497)
+	at org.h2.index.PageDataLeaf.addRowTry(PageDataLeaf.java:235)
+	at org.h2.index.PageDataNode.addRowTry(PageDataNode.java:129)
+	at org.h2.index.PageDataIndex.addTry(PageDataIndex.java:167)
+	at org.h2.index.PageDataIndex.add(PageDataIndex.java:130)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:121)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:124)
+	at org.h2.command.dml.Insert.update(Insert.java:84)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:75)
+	at org.h2.command.Command.executeUpdate(Command.java:230)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:156)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:142)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:890)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+06-26 12:37:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+SELECT 1 [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.command.Command.executeQuery(Command.java:189)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:109)
+	at org.eclipse.persistence.internal.databaseaccess.DatabasePlatform.wasFailureCommunicationBased(DatabasePlatform.java:2849)
+	at org.eclipse.persistence.platform.server.ServerPlatformBase.wasFailureCommunicationBased(ServerPlatformBase.java:528)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.processExceptionForCommError(DatabaseAccessor.java:1607)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:898)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWorkObjectLevelModifyQuery(ObjectLevelModifyQuery.java:108)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWork(ObjectLevelModifyQuery.java:85)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1737)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitNewObjectsForClassWithChangeSet(CommitManager.java:226)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsForClassWithChangeSet(CommitManager.java:193)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:138)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithPreBuiltChangeSet(UnitOfWorkImpl.java:1587)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.writeChanges(RepeatableWriteUnitOfWork.java:452)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.flush(EntityManagerImpl.java:863)
+	at org.eclipse.om2m.core.dao.DAO.update(DAO.java:84)
+	at org.eclipse.om2m.core.controller.ContentInstanceController.doCreate(ContentInstanceController.java:170)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:153)
+	at org.eclipse.om2m.comm.coap.CoapMessageDeliverer.service(CoapServer.java:177)
+	at org.eclipse.om2m.comm.coap.CoapMessageDeliverer.deliverRequest(CoapServer.java:83)
+	at ch.ethz.inf.vs.californium.network.stack.CoapStack$StackTopAdapter.receiveRequest(CoapStack.java:158)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.BlockwiseLayer.receiveRequest(BlockwiseLayer.java:160)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.TokenLayer.receiveRequest(TokenLayer.java:55)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.ReliabilityLayer.receiveRequest(ReliabilityLayer.java:178)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.CoapStack.receiveRequest(CoapStack.java:111)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl.receiveMessage(CoAPEndpoint.java:544)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl.access$800(CoAPEndpoint.java:482)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl$1.run(CoAPEndpoint.java:494)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$4.run(CoAPEndpoint.java:620)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+06-26 12:37:57 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+SELECT URI, ACCESSRIGHTID, CREATIONTIME, CURRENTBYTESIZE, CURRENTNROFINSTANCES, LASTMODIFIEDTIME, SEARCHSTRING FROM CONTENTINSTANCES WHERE (URI = ?) [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.command.Command.executeQuery(Command.java:189)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:109)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeSelect(DatabaseAccessor.java:1007)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:642)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ServerSession.executeCall(ServerSession.java:570)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.selectOneRow(DatasourceCallQueryMechanism.java:714)
+	at org.eclipse.persistence.internal.queries.ExpressionQueryMechanism.selectOneRowFromTable(ExpressionQueryMechanism.java:2801)
+	at org.eclipse.persistence.internal.queries.ExpressionQueryMechanism.selectOneRow(ExpressionQueryMechanism.java:2754)
+	at org.eclipse.persistence.queries.ReadObjectQuery.executeObjectLevelReadQuery(ReadObjectQuery.java:545)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.executeDatabaseQuery(ObjectLevelReadQuery.java:1168)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.execute(ObjectLevelReadQuery.java:1127)
+	at org.eclipse.persistence.queries.ReadObjectQuery.execute(ReadObjectQuery.java:431)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.executeInUnitOfWork(ObjectLevelReadQuery.java:1215)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1737)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.executeQuery(EntityManagerImpl.java:900)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.findInternal(EntityManagerImpl.java:843)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.find(EntityManagerImpl.java:719)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.find(EntityManagerImpl.java:588)
+	at org.eclipse.om2m.core.dao.ContentInstancesDAO.find(ContentInstancesDAO.java:50)
+	at org.eclipse.om2m.core.dao.ContentInstancesDAO.find(ContentInstancesDAO.java:1)
+	at org.eclipse.om2m.core.controller.ContentInstanceController.doCreate(ContentInstanceController.java:77)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:153)
+	at org.eclipse.om2m.comm.coap.CoapMessageDeliverer.service(CoapServer.java:177)
+	at org.eclipse.om2m.comm.coap.CoapMessageDeliverer.deliverRequest(CoapServer.java:83)
+	at ch.ethz.inf.vs.californium.network.stack.CoapStack$StackTopAdapter.receiveRequest(CoapStack.java:158)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.BlockwiseLayer.receiveRequest(BlockwiseLayer.java:202)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.TokenLayer.receiveRequest(TokenLayer.java:55)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.ReliabilityLayer.receiveRequest(ReliabilityLayer.java:178)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.CoapStack.receiveRequest(CoapStack.java:111)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl.receiveMessage(CoAPEndpoint.java:544)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl.access$800(CoAPEndpoint.java:482)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl$1.run(CoAPEndpoint.java:494)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$4.run(CoAPEndpoint.java:620)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+06-26 12:37:57 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+SELECT 1 [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.command.Command.executeQuery(Command.java:189)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:109)
+	at org.eclipse.persistence.internal.databaseaccess.DatabasePlatform.wasFailureCommunicationBased(DatabasePlatform.java:2849)
+	at org.eclipse.persistence.platform.server.ServerPlatformBase.wasFailureCommunicationBased(ServerPlatformBase.java:528)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.processExceptionForCommError(DatabaseAccessor.java:1607)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:674)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ServerSession.executeCall(ServerSession.java:570)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.selectOneRow(DatasourceCallQueryMechanism.java:714)
+	at org.eclipse.persistence.internal.queries.ExpressionQueryMechanism.selectOneRowFromTable(ExpressionQueryMechanism.java:2801)
+	at org.eclipse.persistence.internal.queries.ExpressionQueryMechanism.selectOneRow(ExpressionQueryMechanism.java:2754)
+	at org.eclipse.persistence.queries.ReadObjectQuery.executeObjectLevelReadQuery(ReadObjectQuery.java:545)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.executeDatabaseQuery(ObjectLevelReadQuery.java:1168)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.execute(ObjectLevelReadQuery.java:1127)
+	at org.eclipse.persistence.queries.ReadObjectQuery.execute(ReadObjectQuery.java:431)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.executeInUnitOfWork(ObjectLevelReadQuery.java:1215)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1737)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.executeQuery(EntityManagerImpl.java:900)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.findInternal(EntityManagerImpl.java:843)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.find(EntityManagerImpl.java:719)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.find(EntityManagerImpl.java:588)
+	at org.eclipse.om2m.core.dao.ContentInstancesDAO.find(ContentInstancesDAO.java:50)
+	at org.eclipse.om2m.core.dao.ContentInstancesDAO.find(ContentInstancesDAO.java:1)
+	at org.eclipse.om2m.core.controller.ContentInstanceController.doCreate(ContentInstanceController.java:77)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:153)
+	at org.eclipse.om2m.comm.coap.CoapMessageDeliverer.service(CoapServer.java:177)
+	at org.eclipse.om2m.comm.coap.CoapMessageDeliverer.deliverRequest(CoapServer.java:83)
+	at ch.ethz.inf.vs.californium.network.stack.CoapStack$StackTopAdapter.receiveRequest(CoapStack.java:158)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.BlockwiseLayer.receiveRequest(BlockwiseLayer.java:202)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.TokenLayer.receiveRequest(TokenLayer.java:55)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.ReliabilityLayer.receiveRequest(ReliabilityLayer.java:178)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.CoapStack.receiveRequest(CoapStack.java:111)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl.receiveMessage(CoAPEndpoint.java:544)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl.access$800(CoAPEndpoint.java:482)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl$1.run(CoAPEndpoint.java:494)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$4.run(CoAPEndpoint.java:620)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+06-26 12:37:57 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: The database has been closed [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.engine.Session.close(Session.java:560)
+	at org.h2.jdbc.JdbcConnection.close(JdbcConnection.java:361)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.closeDatasourceConnection(DatabaseAccessor.java:493)
+	at org.eclipse.persistence.internal.databaseaccess.DatasourceAccessor.disconnect(DatasourceAccessor.java:497)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.disconnect(DatabaseAccessor.java:506)
+	at org.eclipse.persistence.sessions.server.ConnectionPool.releaseConnection(ConnectionPool.java:337)
+	at org.eclipse.persistence.sessions.server.ServerSession.releaseConnectionAfterCall(ServerSession.java:614)
+	at org.eclipse.persistence.sessions.server.ServerSession.executeCall(ServerSession.java:580)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.selectOneRow(DatasourceCallQueryMechanism.java:714)
+	at org.eclipse.persistence.internal.queries.ExpressionQueryMechanism.selectOneRowFromTable(ExpressionQueryMechanism.java:2801)
+	at org.eclipse.persistence.internal.queries.ExpressionQueryMechanism.selectOneRow(ExpressionQueryMechanism.java:2754)
+	at org.eclipse.persistence.queries.ReadObjectQuery.executeObjectLevelReadQuery(ReadObjectQuery.java:545)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.executeDatabaseQuery(ObjectLevelReadQuery.java:1168)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.execute(ObjectLevelReadQuery.java:1127)
+	at org.eclipse.persistence.queries.ReadObjectQuery.execute(ReadObjectQuery.java:431)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.executeInUnitOfWork(ObjectLevelReadQuery.java:1215)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1737)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.executeQuery(EntityManagerImpl.java:900)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.findInternal(EntityManagerImpl.java:843)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.find(EntityManagerImpl.java:719)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.find(EntityManagerImpl.java:588)
+	at org.eclipse.om2m.core.dao.ContentInstancesDAO.find(ContentInstancesDAO.java:50)
+	at org.eclipse.om2m.core.dao.ContentInstancesDAO.find(ContentInstancesDAO.java:1)
+	at org.eclipse.om2m.core.controller.ContentInstanceController.doCreate(ContentInstanceController.java:77)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:153)
+	at org.eclipse.om2m.comm.coap.CoapMessageDeliverer.service(CoapServer.java:177)
+	at org.eclipse.om2m.comm.coap.CoapMessageDeliverer.deliverRequest(CoapServer.java:83)
+	at ch.ethz.inf.vs.californium.network.stack.CoapStack$StackTopAdapter.receiveRequest(CoapStack.java:158)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.BlockwiseLayer.receiveRequest(BlockwiseLayer.java:202)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.TokenLayer.receiveRequest(TokenLayer.java:55)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.ReliabilityLayer.receiveRequest(ReliabilityLayer.java:178)
+	at ch.ethz.inf.vs.californium.network.stack.AbstractLayer.receiveRequest(AbstractLayer.java:68)
+	at ch.ethz.inf.vs.californium.network.stack.CoapStack.receiveRequest(CoapStack.java:111)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl.receiveMessage(CoAPEndpoint.java:544)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl.access$800(CoAPEndpoint.java:482)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$RawDataChannelImpl$1.run(CoAPEndpoint.java:494)
+	at ch.ethz.inf.vs.californium.network.CoAPEndpoint$4.run(CoAPEndpoint.java:620)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+06-26 13:00:57 database: disconnecting session #3
+org.h2.message.DbException: The database has been closed [90098-168]
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.engine.Session.close(Session.java:560)
+	at org.h2.engine.Database.closeAllSessionsException(Database.java:1052)
+	at org.h2.engine.Database.close(Database.java:1088)
+	at org.h2.engine.DatabaseCloser.run(DatabaseCloser.java:80)
+Caused by: org.h2.jdbc.JdbcSQLException: The database has been closed [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	... 8 more
+06-26 13:00:57 database: close
+org.h2.message.DbException: The database has been closed; SQL statement:
+SELECT ID FROM INFORMATION_SCHEMA.LOBS WHERE TABLE = ? [90098-168]
+	at org.h2.message.DbException.convert(DbException.java:269)
+	at org.h2.store.LobStorage.removeAllForTable(LobStorage.java:180)
+	at org.h2.engine.Database.close(Database.java:1110)
+	at org.h2.engine.DatabaseCloser.run(DatabaseCloser.java:80)
+Caused by: org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+SELECT ID FROM INFORMATION_SCHEMA.LOBS WHERE TABLE = ? [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.command.Command.executeQuery(Command.java:189)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:109)
+	at org.h2.store.LobStorage.removeAllForTable(LobStorage.java:174)
+	... 2 more
+06-26 13:01:13 pageStore: Transaction log could not be truncated; size: 66 MB
+06-26 13:50:21 pageStore: Transaction log could not be truncated; size: 107 MB
+06-26 15:50:30 pageStore: Transaction log could not be truncated; size: 56 MB
+06-26 17:12:58 pageStore: Transaction log could not be truncated; size: 17 MB
+06-26 17:18:25 pageStore: Transaction log could not be truncated; size: 31 MB
+06-26 17:25:21 pageStore: Transaction log could not be truncated; size: 31 MB
+06-26 17:31:59 pageStore: Transaction log could not be truncated; size: 31 MB
+06-26 17:37:42 pageStore: Transaction log could not be truncated; size: 31 MB
+06-26 17:46:59 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Out of memory.; SQL statement:
+INSERT INTO CONTENTINSTANCE (URI, ACCESSRIGHTID, CONTENTSIZE, CREATIONTIME, DELAYTOLERANCE, HREF, ID, LASTMODIFIEDTIME, contentTypeBase64Binary, VALUE, CONTENTTYPE, SEARCHSTRING) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) [90108-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:158)
+	at org.h2.message.DbException.convert(DbException.java:275)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:139)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:124)
+	at org.h2.command.dml.Insert.update(Insert.java:84)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:75)
+	at org.h2.command.Command.executeUpdate(Command.java:230)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:156)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:142)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:890)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWorkObjectLevelModifyQuery(ObjectLevelModifyQuery.java:108)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWork(ObjectLevelModifyQuery.java:85)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1737)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitNewObjectsForClassWithChangeSet(CommitManager.java:226)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsForClassWithChangeSet(CommitManager.java:193)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:138)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithPreBuiltChangeSet(UnitOfWorkImpl.java:1587)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.writeChanges(RepeatableWriteUnitOfWork.java:452)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.flush(EntityManagerImpl.java:863)
+	at org.eclipse.om2m.core.dao.DAO.update(DAO.java:84)
+	at org.eclipse.om2m.core.controller.ContentInstanceController.doCreate(ContentInstanceController.java:170)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:153)
+	at org.eclipse.om2m.comm.http.RestHttpServlet.service(RestHttpServlet.java:104)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:360)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:684)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:503)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:229)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1086)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:429)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1020)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:370)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:494)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:971)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1033)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:651)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:696)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.OutOfMemoryError: Requested memory: 2349990
+	at org.h2.util.Utils.newBytes(Utils.java:374)
+	at org.h2.store.Data.expand(Data.java:1263)
+	at org.h2.store.Data.checkCapacity(Data.java:1258)
+	at org.h2.index.PageDataLeaf.addRowTry(PageDataLeaf.java:241)
+	at org.h2.index.PageDataNode.addRowTry(PageDataNode.java:129)
+	at org.h2.index.PageDataIndex.addTry(PageDataIndex.java:167)
+	at org.h2.index.PageDataIndex.add(PageDataIndex.java:130)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:121)
+	... 69 more
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at org.h2.util.Utils.newBytes(Utils.java:372)
+	at org.h2.store.Data.expand(Data.java:1263)
+	at org.h2.store.Data.checkCapacity(Data.java:1258)
+	at org.h2.index.PageDataLeaf.addRowTry(PageDataLeaf.java:241)
+	at org.h2.index.PageDataNode.addRowTry(PageDataNode.java:129)
+	at org.h2.index.PageDataIndex.addTry(PageDataIndex.java:167)
+	at org.h2.index.PageDataIndex.add(PageDataIndex.java:130)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:121)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:124)
+	at org.h2.command.dml.Insert.update(Insert.java:84)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:75)
+	at org.h2.command.Command.executeUpdate(Command.java:230)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:156)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:142)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:890)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+06-26 17:46:59 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+SELECT 1 [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.command.Command.executeQuery(Command.java:189)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:109)
+	at org.eclipse.persistence.internal.databaseaccess.DatabasePlatform.wasFailureCommunicationBased(DatabasePlatform.java:2849)
+	at org.eclipse.persistence.platform.server.ServerPlatformBase.wasFailureCommunicationBased(ServerPlatformBase.java:528)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.processExceptionForCommError(DatabaseAccessor.java:1607)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:898)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWorkObjectLevelModifyQuery(ObjectLevelModifyQuery.java:108)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWork(ObjectLevelModifyQuery.java:85)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1737)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitNewObjectsForClassWithChangeSet(CommitManager.java:226)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsForClassWithChangeSet(CommitManager.java:193)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:138)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithPreBuiltChangeSet(UnitOfWorkImpl.java:1587)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.writeChanges(RepeatableWriteUnitOfWork.java:452)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.flush(EntityManagerImpl.java:863)
+	at org.eclipse.om2m.core.dao.DAO.update(DAO.java:84)
+	at org.eclipse.om2m.core.controller.ContentInstanceController.doCreate(ContentInstanceController.java:170)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:153)
+	at org.eclipse.om2m.comm.http.RestHttpServlet.service(RestHttpServlet.java:104)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:360)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:684)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:503)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:229)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1086)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:429)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1020)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:370)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:494)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:971)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1033)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:651)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:696)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+06-26 17:52:50 database: disconnecting session #2
+org.h2.message.DbException: The database has been closed [90098-168]
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.engine.Session.close(Session.java:560)
+	at org.h2.engine.Database.closeAllSessionsException(Database.java:1052)
+	at org.h2.engine.Database.close(Database.java:1088)
+	at org.h2.engine.DatabaseCloser.run(DatabaseCloser.java:80)
+Caused by: org.h2.jdbc.JdbcSQLException: The database has been closed [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	... 8 more
+06-26 17:52:50 database: close
+org.h2.message.DbException: The database has been closed; SQL statement:
+SELECT ID FROM INFORMATION_SCHEMA.LOBS WHERE TABLE = ? [90098-168]
+	at org.h2.message.DbException.convert(DbException.java:269)
+	at org.h2.store.LobStorage.removeAllForTable(LobStorage.java:180)
+	at org.h2.engine.Database.close(Database.java:1110)
+	at org.h2.engine.DatabaseCloser.run(DatabaseCloser.java:80)
+Caused by: org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+SELECT ID FROM INFORMATION_SCHEMA.LOBS WHERE TABLE = ? [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.command.Command.executeQuery(Command.java:189)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:109)
+	at org.h2.store.LobStorage.removeAllForTable(LobStorage.java:174)
+	... 2 more
+06-26 17:53:27 pageStore: Transaction log could not be truncated; size: 106 MB
+06-26 18:03:34 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Out of memory.; SQL statement:
+INSERT INTO CONTENTINSTANCE (URI, ACCESSRIGHTID, CONTENTSIZE, CREATIONTIME, DELAYTOLERANCE, HREF, ID, LASTMODIFIEDTIME, contentTypeBase64Binary, VALUE, CONTENTTYPE, SEARCHSTRING) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) [90108-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:158)
+	at org.h2.message.DbException.convert(DbException.java:275)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:139)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:124)
+	at org.h2.command.dml.Insert.update(Insert.java:84)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:75)
+	at org.h2.command.Command.executeUpdate(Command.java:230)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:156)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:142)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:890)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWorkObjectLevelModifyQuery(ObjectLevelModifyQuery.java:108)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWork(ObjectLevelModifyQuery.java:85)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1737)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitNewObjectsForClassWithChangeSet(CommitManager.java:226)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsForClassWithChangeSet(CommitManager.java:193)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:138)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithPreBuiltChangeSet(UnitOfWorkImpl.java:1587)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.writeChanges(RepeatableWriteUnitOfWork.java:452)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.flush(EntityManagerImpl.java:863)
+	at org.eclipse.om2m.core.dao.DAO.update(DAO.java:84)
+	at org.eclipse.om2m.core.controller.ContentInstanceController.doCreate(ContentInstanceController.java:170)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:153)
+	at org.eclipse.om2m.comm.http.RestHttpServlet.service(RestHttpServlet.java:104)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:360)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:684)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:503)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:229)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1086)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:429)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1020)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:370)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:494)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:971)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1033)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:651)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:696)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.OutOfMemoryError: Requested memory: 2349990
+	at org.h2.util.Utils.newBytes(Utils.java:374)
+	at org.h2.store.Data.expand(Data.java:1263)
+	at org.h2.store.Data.checkCapacity(Data.java:1258)
+	at org.h2.index.PageDataLeaf.addRowTry(PageDataLeaf.java:241)
+	at org.h2.index.PageDataNode.addRowTry(PageDataNode.java:129)
+	at org.h2.index.PageDataIndex.addTry(PageDataIndex.java:167)
+	at org.h2.index.PageDataIndex.add(PageDataIndex.java:130)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:121)
+	... 69 more
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at org.h2.util.Utils.newBytes(Utils.java:372)
+	at org.h2.store.Data.expand(Data.java:1263)
+	at org.h2.store.Data.checkCapacity(Data.java:1258)
+	at org.h2.index.PageDataLeaf.addRowTry(PageDataLeaf.java:241)
+	at org.h2.index.PageDataNode.addRowTry(PageDataNode.java:129)
+	at org.h2.index.PageDataIndex.addTry(PageDataIndex.java:167)
+	at org.h2.index.PageDataIndex.add(PageDataIndex.java:130)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:121)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:124)
+	at org.h2.command.dml.Insert.update(Insert.java:84)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:75)
+	at org.h2.command.Command.executeUpdate(Command.java:230)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:156)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:142)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:890)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+06-26 18:03:34 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+SELECT 1 [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.command.Command.executeQuery(Command.java:189)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:109)
+	at org.eclipse.persistence.internal.databaseaccess.DatabasePlatform.wasFailureCommunicationBased(DatabasePlatform.java:2849)
+	at org.eclipse.persistence.platform.server.ServerPlatformBase.wasFailureCommunicationBased(ServerPlatformBase.java:528)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.processExceptionForCommError(DatabaseAccessor.java:1607)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:898)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWorkObjectLevelModifyQuery(ObjectLevelModifyQuery.java:108)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWork(ObjectLevelModifyQuery.java:85)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1737)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitNewObjectsForClassWithChangeSet(CommitManager.java:226)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsForClassWithChangeSet(CommitManager.java:193)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:138)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithPreBuiltChangeSet(UnitOfWorkImpl.java:1587)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.writeChanges(RepeatableWriteUnitOfWork.java:452)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.flush(EntityManagerImpl.java:863)
+	at org.eclipse.om2m.core.dao.DAO.update(DAO.java:84)
+	at org.eclipse.om2m.core.controller.ContentInstanceController.doCreate(ContentInstanceController.java:170)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:153)
+	at org.eclipse.om2m.comm.http.RestHttpServlet.service(RestHttpServlet.java:104)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:360)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:684)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:503)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:229)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1086)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:429)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1020)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:370)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:494)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:971)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1033)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:651)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:696)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+06-26 18:04:38 database: disconnecting session #2
+org.h2.message.DbException: The database has been closed [90098-168]
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.engine.Session.close(Session.java:560)
+	at org.h2.engine.Database.closeAllSessionsException(Database.java:1052)
+	at org.h2.engine.Database.close(Database.java:1088)
+	at org.h2.engine.DatabaseCloser.run(DatabaseCloser.java:80)
+Caused by: org.h2.jdbc.JdbcSQLException: The database has been closed [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	... 8 more
+06-26 18:04:38 database: close
+org.h2.message.DbException: The database has been closed; SQL statement:
+SELECT ID FROM INFORMATION_SCHEMA.LOBS WHERE TABLE = ? [90098-168]
+	at org.h2.message.DbException.convert(DbException.java:269)
+	at org.h2.store.LobStorage.removeAllForTable(LobStorage.java:180)
+	at org.h2.engine.Database.close(Database.java:1110)
+	at org.h2.engine.DatabaseCloser.run(DatabaseCloser.java:80)
+Caused by: org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+SELECT ID FROM INFORMATION_SCHEMA.LOBS WHERE TABLE = ? [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.command.Command.executeQuery(Command.java:189)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:109)
+	at org.h2.store.LobStorage.removeAllForTable(LobStorage.java:174)
+	... 2 more
+06-27 01:20:12 pageStore: Transaction log could not be truncated; size: 106 MB
+06-27 02:29:29 pageStore: Transaction log could not be truncated; size: 16 MB
+06-27 02:52:26 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Out of memory.; SQL statement:
+INSERT INTO CONTENTINSTANCE (URI, ACCESSRIGHTID, CONTENTSIZE, CREATIONTIME, DELAYTOLERANCE, HREF, ID, LASTMODIFIEDTIME, contentTypeBase64Binary, VALUE, CONTENTTYPE, SEARCHSTRING) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) [90108-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:158)
+	at org.h2.message.DbException.convert(DbException.java:275)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:139)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:124)
+	at org.h2.command.dml.Insert.update(Insert.java:84)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:75)
+	at org.h2.command.Command.executeUpdate(Command.java:230)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:156)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:142)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:890)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWorkObjectLevelModifyQuery(ObjectLevelModifyQuery.java:108)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWork(ObjectLevelModifyQuery.java:85)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1737)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitNewObjectsForClassWithChangeSet(CommitManager.java:226)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsForClassWithChangeSet(CommitManager.java:193)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:138)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithPreBuiltChangeSet(UnitOfWorkImpl.java:1587)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.writeChanges(RepeatableWriteUnitOfWork.java:452)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.flush(EntityManagerImpl.java:863)
+	at org.eclipse.om2m.core.dao.DAO.update(DAO.java:84)
+	at org.eclipse.om2m.core.controller.ContentInstanceController.doCreate(ContentInstanceController.java:170)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:153)
+	at org.eclipse.om2m.comm.http.RestHttpServlet.service(RestHttpServlet.java:104)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:360)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:684)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:503)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:229)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1086)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:429)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1020)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:370)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:494)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:971)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1033)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:651)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:696)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.OutOfMemoryError: Requested memory: 2349990
+	at org.h2.util.Utils.newBytes(Utils.java:374)
+	at org.h2.store.Data.expand(Data.java:1263)
+	at org.h2.store.Data.checkCapacity(Data.java:1258)
+	at org.h2.index.PageDataLeaf.addRowTry(PageDataLeaf.java:241)
+	at org.h2.index.PageDataNode.addRowTry(PageDataNode.java:129)
+	at org.h2.index.PageDataIndex.addTry(PageDataIndex.java:167)
+	at org.h2.index.PageDataIndex.add(PageDataIndex.java:130)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:121)
+	... 69 more
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at org.h2.util.Utils.newBytes(Utils.java:372)
+	at org.h2.store.Data.expand(Data.java:1263)
+	at org.h2.store.Data.checkCapacity(Data.java:1258)
+	at org.h2.index.PageDataLeaf.addRowTry(PageDataLeaf.java:241)
+	at org.h2.index.PageDataNode.addRowTry(PageDataNode.java:129)
+	at org.h2.index.PageDataIndex.addTry(PageDataIndex.java:167)
+	at org.h2.index.PageDataIndex.add(PageDataIndex.java:130)
+	at org.h2.table.RegularTable.addRow(RegularTable.java:121)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:124)
+	at org.h2.command.dml.Insert.update(Insert.java:84)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:75)
+	at org.h2.command.Command.executeUpdate(Command.java:230)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:156)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:142)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:890)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+06-27 02:52:26 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+SELECT 1 [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.command.Command.executeQuery(Command.java:189)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:109)
+	at org.eclipse.persistence.internal.databaseaccess.DatabasePlatform.wasFailureCommunicationBased(DatabasePlatform.java:2849)
+	at org.eclipse.persistence.platform.server.ServerPlatformBase.wasFailureCommunicationBased(ServerPlatformBase.java:528)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.processExceptionForCommError(DatabaseAccessor.java:1607)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeDirectNoSelect(DatabaseAccessor.java:898)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeNoSelect(DatabaseAccessor.java:962)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:631)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:558)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2002)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:298)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.insertObject(DatasourceCallQueryMechanism.java:377)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:165)
+	at org.eclipse.persistence.internal.queries.StatementQueryMechanism.insertObject(StatementQueryMechanism.java:180)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.insertObjectForWrite(DatabaseQueryMechanism.java:489)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommit(InsertObjectQuery.java:80)
+	at org.eclipse.persistence.queries.InsertObjectQuery.executeCommitWithChangeSet(InsertObjectQuery.java:90)
+	at org.eclipse.persistence.internal.queries.DatabaseQueryMechanism.executeWriteWithChangeSet(DatabaseQueryMechanism.java:301)
+	at org.eclipse.persistence.queries.WriteObjectQuery.executeDatabaseQuery(WriteObjectQuery.java:58)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:899)
+	at org.eclipse.persistence.queries.DatabaseQuery.executeInUnitOfWork(DatabaseQuery.java:798)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWorkObjectLevelModifyQuery(ObjectLevelModifyQuery.java:108)
+	at org.eclipse.persistence.queries.ObjectLevelModifyQuery.executeInUnitOfWork(ObjectLevelModifyQuery.java:85)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2896)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1804)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1786)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1737)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitNewObjectsForClassWithChangeSet(CommitManager.java:226)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsForClassWithChangeSet(CommitManager.java:193)
+	at org.eclipse.persistence.internal.sessions.CommitManager.commitAllObjectsWithChangeSet(CommitManager.java:138)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.writeAllObjectsWithChangeSet(AbstractSession.java:4207)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabase(UnitOfWorkImpl.java:1441)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.commitToDatabaseWithPreBuiltChangeSet(UnitOfWorkImpl.java:1587)
+	at org.eclipse.persistence.internal.sessions.RepeatableWriteUnitOfWork.writeChanges(RepeatableWriteUnitOfWork.java:452)
+	at org.eclipse.persistence.internal.jpa.EntityManagerImpl.flush(EntityManagerImpl.java:863)
+	at org.eclipse.om2m.core.dao.DAO.update(DAO.java:84)
+	at org.eclipse.om2m.core.controller.ContentInstanceController.doCreate(ContentInstanceController.java:170)
+	at org.eclipse.om2m.core.router.Router.doRequest(Router.java:153)
+	at org.eclipse.om2m.comm.http.RestHttpServlet.service(RestHttpServlet.java:104)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128)
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.equinox.http.jetty.internal.HttpServerManager$InternalHttpServiceServlet.service(HttpServerManager.java:360)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:684)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:503)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:229)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1086)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:429)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:193)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1020)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:135)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:370)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:494)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:971)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:1033)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:651)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:696)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Unknown Source)
+06-27 02:57:25 database: disconnecting session #2
+org.h2.message.DbException: The database has been closed [90098-168]
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.engine.Session.close(Session.java:560)
+	at org.h2.engine.Database.closeAllSessionsException(Database.java:1052)
+	at org.h2.engine.Database.close(Database.java:1088)
+	at org.h2.engine.DatabaseCloser.run(DatabaseCloser.java:80)
+Caused by: org.h2.jdbc.JdbcSQLException: The database has been closed [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	... 8 more
+06-27 02:57:25 database: close
+org.h2.message.DbException: The database has been closed; SQL statement:
+SELECT ID FROM INFORMATION_SCHEMA.LOBS WHERE TABLE = ? [90098-168]
+	at org.h2.message.DbException.convert(DbException.java:269)
+	at org.h2.store.LobStorage.removeAllForTable(LobStorage.java:180)
+	at org.h2.engine.Database.close(Database.java:1110)
+	at org.h2.engine.DatabaseCloser.run(DatabaseCloser.java:80)
+Caused by: org.h2.jdbc.JdbcSQLException: The database has been closed; SQL statement:
+SELECT ID FROM INFORMATION_SCHEMA.LOBS WHERE TABLE = ? [90098-168]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:169)
+	at org.h2.message.DbException.get(DbException.java:146)
+	at org.h2.message.DbException.get(DbException.java:135)
+	at org.h2.engine.Database.checkPowerOff(Database.java:433)
+	at org.h2.command.Command.executeQuery(Command.java:189)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:109)
+	at org.h2.store.LobStorage.removeAllForTable(LobStorage.java:174)
+	... 2 more
+06-27 10:57:45 pageStore: Transaction log could not be truncated; size: 99 MB

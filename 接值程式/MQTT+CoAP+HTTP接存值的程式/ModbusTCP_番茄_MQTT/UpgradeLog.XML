@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ModbusTCP_Master">
+</Property><Property Name="方案檔" Value="C:\Users\sam\Desktop\demo\c#.net\modbus_tcp\master\ModbusTCP_Master\ModbusTCP_Master.sln">
+</Property><Property Name="使用者選項檔" Value="C:\Users\sam\Desktop\demo\c#.net\modbus_tcp\master\ModbusTCP_Master\ModbusTCP_Master.suo">
+</Property><Property Name="Date" Value="2015年9月2日">
+</Property><Property Name="Time" Value="上午 01:51">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ModbusTCP_Master.sln" Description="檔案已成功備份為 C:\Users\sam\Desktop\demo\c#.net\modbus_tcp\master\ModbusTCP_Master\Backup\ModbusTCP_Master.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ModbusTCP_Master.suo" Description="檔案已成功備份為 C:\Users\sam\Desktop\demo\c#.net\modbus_tcp\master\ModbusTCP_Master\Backup\ModbusTCP_Master.suo">
+</Event><Event ErrorLevel="0" Project="ModbusTCP_Master" Source="ModbusTCP_Master\ModbusTCP_Master.csproj" Description="專案檔已成功備份為 C:\Users\sam\Desktop\demo\c#.net\modbus_tcp\master\ModbusTCP_Master\Backup\ModbusTCP_Master\ModbusTCP_Master.csproj">
+</Event><Event ErrorLevel="0" Project="ModbusTCP_Master" Source="ModbusTCP_Master\ModbusTCP_Master.csproj.user" Description="專案使用者檔案已成功備份為 C:\Users\sam\Desktop\demo\c#.net\modbus_tcp\master\ModbusTCP_Master\Backup\ModbusTCP_Master\ModbusTCP_Master.csproj.user">
+</Event><Event ErrorLevel="0" Project="ModbusTCP_Master" Source="ModbusTCP_Master\Form1.cs" Description="檔案已成功備份為 C:\Users\sam\Desktop\demo\c#.net\modbus_tcp\master\ModbusTCP_Master\Backup\ModbusTCP_Master\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ModbusTCP_Master" Source="ModbusTCP_Master\Form1.Designer.cs" Description="檔案已成功備份為 C:\Users\sam\Desktop\demo\c#.net\modbus_tcp\master\ModbusTCP_Master\Backup\ModbusTCP_Master\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ModbusTCP_Master" Source="ModbusTCP_Master\frmInputValue.cs" Description="檔案已成功備份為 C:\Users\sam\Desktop\demo\c#.net\modbus_tcp\master\ModbusTCP_Master\Backup\ModbusTCP_Master\frmInputValue.cs">
+</Event><Event ErrorLevel="0" Project="ModbusTCP_Master" Source="ModbusTCP_Master\frmInputValue.Designer.cs" Description="檔案已成功備份為 C:\Users\sam\Desktop\demo\c#.net\modbus_tcp\master\ModbusTCP_Master\Backup\ModbusTCP_Master\frmInputValue.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ModbusTCP_Master" Source="ModbusTCP_Master\Program.cs" Description="檔案已成功備份為 C:\Users\sam\Desktop\demo\c#.net\modbus_tcp\master\ModbusTCP_Master\Backup\ModbusTCP_Master\Program.cs">
+</Event><Event ErrorLevel="0" Project="ModbusTCP_Master" Source="ModbusTCP_Master\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 C:\Users\sam\Desktop\demo\c#.net\modbus_tcp\master\ModbusTCP_Master\Backup\ModbusTCP_Master\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ModbusTCP_Master" Source="ModbusTCP_Master\Properties\Resources.Designer.cs" Description="檔案已成功備份為 C:\Users\sam\Desktop\demo\c#.net\modbus_tcp\master\ModbusTCP_Master\Backup\ModbusTCP_Master\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ModbusTCP_Master" Source="ModbusTCP_Master\Properties\Settings.Designer.cs" Description="檔案已成功備份為 C:\Users\sam\Desktop\demo\c#.net\modbus_tcp\master\ModbusTCP_Master\Backup\ModbusTCP_Master\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ModbusTCP_Master" Source="ModbusTCP_Master\Properties\Settings.settings" Description="檔案已成功備份為 C:\Users\sam\Desktop\demo\c#.net\modbus_tcp\master\ModbusTCP_Master\Backup\ModbusTCP_Master\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ModbusTCP_Master" Source="ModbusTCP_Master\Form1.resx" Description="檔案已成功備份為 C:\Users\sam\Desktop\demo\c#.net\modbus_tcp\master\ModbusTCP_Master\Backup\ModbusTCP_Master\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ModbusTCP_Master" Source="ModbusTCP_Master\frmInputValue.resx" Description="檔案已成功備份為 C:\Users\sam\Desktop\demo\c#.net\modbus_tcp\master\ModbusTCP_Master\Backup\ModbusTCP_Master\frmInputValue.resx">
+</Event><Event ErrorLevel="0" Project="ModbusTCP_Master" Source="ModbusTCP_Master\Properties\Resources.resx" Description="檔案已成功備份為 C:\Users\sam\Desktop\demo\c#.net\modbus_tcp\master\ModbusTCP_Master\Backup\ModbusTCP_Master\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="ModbusTCP_Master" Source="ModbusTCP_Master\ModbusTCP_Master.csproj" Description="您的專案是以 .NET Framework 2.0 或 3.0 為目標。如果您的專案使用需要較新版 .NET Framework 的組件，專案建置將會失敗。您可以變更 .NET Framework 版本，方法是按一下專案功能表上的 [屬性]，然後在 [.NET Framework] 下拉式方塊中選取新的版本 (在 Visual Basic 中，它的位置是在按一下 [進階編譯選項...] 按鈕時顯示的 [編譯] 索引標籤上)。">
+</Event><Event ErrorLevel="0" Project="ModbusTCP_Master" Source="ModbusTCP_Master\ModbusTCP_Master.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="ModbusTCP_Master" Source="ModbusTCP_Master\ModbusTCP_Master.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ModbusTCP_Master.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="ModbusTCP_Master.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ModbusTCP_Master" Source="ModbusTCP_Master\ModbusTCP_Master.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

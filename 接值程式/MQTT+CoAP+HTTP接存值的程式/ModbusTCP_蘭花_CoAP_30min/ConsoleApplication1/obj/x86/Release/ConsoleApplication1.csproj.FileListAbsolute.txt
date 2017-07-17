@@ -1,0 +1,9 @@
+E:\!碩士論文\[4]程式\ModbusTCP_蘭花_加入DATC方法\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+E:\!碩士論文\[4]程式\ModbusTCP_蘭花_加入DATC方法\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+E:\!碩士論文\[4]程式\ModbusTCP_蘭花_加入DATC方法\ConsoleApplication1\bin\Release\CoAP.NET.dll
+E:\!碩士論文\[4]程式\ModbusTCP_蘭花_加入DATC方法\ConsoleApplication1\bin\Release\Common.Logging.Core.dll
+E:\!碩士論文\[4]程式\ModbusTCP_蘭花_加入DATC方法\ConsoleApplication1\bin\Release\Common.Logging.dll
+E:\!碩士論文\[4]程式\ModbusTCP_蘭花_加入DATC方法\ConsoleApplication1\bin\Release\CoAP.NET.pdb
+E:\!碩士論文\[4]程式\ModbusTCP_蘭花_加入DATC方法\ConsoleApplication1\bin\Release\CoAP.NET.xml
+E:\!碩士論文\[4]程式\ModbusTCP_蘭花_加入DATC方法\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+E:\!碩士論文\[4]程式\ModbusTCP_蘭花_加入DATC方法\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb

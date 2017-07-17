@@ -1,0 +1,5 @@
+C:\Users\sam\Desktop\oneM2M程式開發相關\m2mqtt-master\bin\Debug\M2Mqtt.Net\M2Mqtt.Net.dll
+C:\Users\sam\Desktop\oneM2M程式開發相關\m2mqtt-master\bin\Debug\M2Mqtt.Net\M2Mqtt.Net.pdb
+C:\Users\sam\Desktop\oneM2M程式開發相關\m2mqtt-master\M2Mqtt\obj\Debug\M2Mqtt.Net.csprojResolveAssemblyReference.cache
+C:\Users\sam\Desktop\oneM2M程式開發相關\m2mqtt-master\M2Mqtt\obj\Debug\M2Mqtt.Net.dll
+C:\Users\sam\Desktop\oneM2M程式開發相關\m2mqtt-master\M2Mqtt\obj\Debug\M2Mqtt.Net.pdb

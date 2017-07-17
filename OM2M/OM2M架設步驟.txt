@@ -1,0 +1,12 @@
+1.開啟資料夾"OM2M-0.8.0\NSCL" 內的 start.bat
+2.開啟資料夾"OM2M架設相關感測器"內的程式 (bin/Release/ModbusTCP_Master.exe)
+3.按下"開始架設"按鈕
+
+////檢查是否成功////
+1.瀏覽器輸入 http://127.0.0.1:8080/
+2.帳號密碼皆為admin
+3.點擊至nscl-->applcations-->applicationCollection
+4.查看裡面是否有Gateway名稱(G_Internet、G_Intranet、G_Local)
+5.點擊至G_Internet-->containers-->containerCollection
+6.查看裡面是否有感測器名稱(LXT401_1...等等)
+7.G_Intranet、G_Local同上步驟5.6

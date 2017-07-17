@@ -1,0 +1,5 @@
+E:\!碩士論文\[4]程式\ModbusTCP_番茄_MQTT\bin\Release\M2Mqtt.Net\M2Mqtt.Net.dll
+E:\!碩士論文\[4]程式\ModbusTCP_番茄_MQTT\bin\Release\M2Mqtt.Net\M2Mqtt.Net.pdb
+E:\!碩士論文\[4]程式\ModbusTCP_番茄_MQTT\M2Mqtt\obj\Release\M2Mqtt.Net.csprojResolveAssemblyReference.cache
+E:\!碩士論文\[4]程式\ModbusTCP_番茄_MQTT\M2Mqtt\obj\Release\M2Mqtt.Net.dll
+E:\!碩士論文\[4]程式\ModbusTCP_番茄_MQTT\M2Mqtt\obj\Release\M2Mqtt.Net.pdb

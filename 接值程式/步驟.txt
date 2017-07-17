@@ -1,0 +1,16 @@
+因為MQTT使用較新的套件，開啟需要先安裝以下套件 :
+    mysql-connector-net、net framework 4.6、mosquitto-1.4.8-install-win32
+    將SSLEAY32.dll、LIBEAY32.dll複製到C:\Windows\System32內(mosquitto啟動所需)
+
+若需要修改改程式，電腦還要安裝：
+    Service Pack1、microsoft visual c++ 2015以上版本
+
+
+程式執行步驟：
+1.開啟cmd至mosquitto所安裝的目錄，輸入指令(mosquitto -v)來執行mosquitto，以開啟MQTT Broker。
+  1.1.開啟cmd
+  1.2.移動至mosquitto所安裝目錄。指令為 cd c:/Program Files <x86>/mosquitto
+  1.3.開啟MQTT Broker，指令為 mosquitto -v
+  1.4 成功會看到  mosquitto version 1.4.8 (build date 14/02/2016 15:33:31.09) starting.....
+2.開啟程式。
+  2.1路徑:『MQTT+CoAP+HTTP接存值的程式\ModbusTCP_番茄_MQTT+CoAP+HTTP\ModbusTCP_Master\bin\Release\ModbusTCP_Master.exe』
